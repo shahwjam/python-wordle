@@ -33,8 +33,8 @@ The game is simple, interactive, and fun, while also demonstrating Python progra
 
 1. Clone this repository:  
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/shahwjam/python-wordle.git
+cd wordle_game
 
 2.Install dependencies:
 pip install english-words
